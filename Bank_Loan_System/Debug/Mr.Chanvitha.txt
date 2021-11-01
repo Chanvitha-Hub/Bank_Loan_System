@@ -1,0 +1,27 @@
+
+	Cusomer Name:		Chanvitha
+	Requested Loan Amount:	100000
+	Possible Period:	12
+	Loan Type:		Vehicle
+	Max. Repay Period:	60
+	Annual Interest Rate:	14
+
+	Loan amount	Interest	Repaid loan amount
+
+	100000		1166.67		7812.05
+	92187		1166.67		7812.05
+	84283		1075.52		7903.20
+	76287		983.30		7995.42
+	68198		890.02		8088.70
+	60014		795.64		8183.08
+	51735		700.16		8278.56
+	43359		603.58		8375.14
+	34886		505.86		8472.86
+	26314		407.00		8571.72
+	17642		307.00		8671.72
+	8869		205.82		8772.90
+	-6		103.47		8875.25
+
+	Total Interest:	7744.03
+	Total Repaid:	100000.62
+	Total Amount should pay:	107744.65
